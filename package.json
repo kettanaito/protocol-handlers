@@ -1,6 +1,6 @@
 {
   "name": "protocol-handlers",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Utilities to work with protocol handlers on the web",
   "main": "./build/index.js",
   "typings": "./build/index.d.ts",
