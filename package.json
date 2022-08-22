@@ -2,8 +2,8 @@
   "name": "protocol-handlers",
   "version": "0.1.1",
   "description": "Utilities to work with protocol handlers on the web",
-  "main": "build/index.js",
-  "typings": "build/index.d.ts",
+  "main": "./build/index.js",
+  "typings": "./build/index.d.ts",
   "scripts": {
     "test": "jest",
     "prebuild": "rimraf ./build",
@@ -17,6 +17,9 @@
     "handlers",
     "supported",
     "check"
+  ],
+  "files": [
+    "./build"
   ],
   "author": "Artem Zakharchenko <kettanaito@gmail.com>",
   "license": "MIT",
